@@ -36,7 +36,7 @@ TEST_CAT = ['fear', 'disgust', 'neutral', 'happy', 'sad', 'surprise', 'angry']
 TEST_PRED = np.array([.3, .3, .4, .1, .6, .9, .1])
 
 # page settings
-st.set_page_config(page_title="SER web-app", page_icon=":speech_balloon:", layout="wide")
+st.set_page_config(page_title="Emotion_Detection_App", page_icon=":speech_balloon:", layout="wide")
 # COLOR = "#1f1f2e"
 # BACKGROUND_COLOR = "#d1d1e0"
 
